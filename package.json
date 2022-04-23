@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/darkjinnee/drom-pdd/issues"
   },
-  "homepage": "https://github.com/darkjinnee/drom-pdd#readme"
+  "homepage": "https://github.com/darkjinnee/drom-pdd#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^13.6.0"
+  }
 }
