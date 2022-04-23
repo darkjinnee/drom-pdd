@@ -1,0 +1,20 @@
+{
+  "name": "drom-pdd",
+  "version": "1.0.0",
+  "description": "Ticket scraper from the website drom.ru",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkjinnee/drom-pdd.git"
+  },
+  "author": "Dark Jinnee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkjinnee/drom-pdd/issues"
+  },
+  "homepage": "https://github.com/darkjinnee/drom-pdd#readme"
+}
